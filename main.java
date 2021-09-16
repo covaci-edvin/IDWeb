@@ -1,5 +1,5 @@
 import javax.swing.JFrame;  //Importing class JFrame
-import javax.swing.JLabel;  //Importing class JLabel
+mport javax.swing.JLabel;  //Importing class JLabel
 public class HelloWorld {
     public static void main(String[] args) {
         JFrame frame = new JFrame();           //Creating frame
@@ -10,3 +10,4 @@ public class HelloWorld {
         frame.setVisible(true);                //Showing frame
     }
 }
+{}
